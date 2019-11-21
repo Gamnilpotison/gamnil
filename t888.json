@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "888 Tic",
-    "imagePath": "https://raw.githubusercontent.com/Gamnilpotison/gamnil/master/888-tic.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/Gamnilpotison/gamnil/master/888.jpg",
+    "linkPath": "https://mmwebhandler.aff-online.com/C/42655?sr=1645625&ANID=a_1232",
+    "linkAction": "#web",
     "afid": "mExj54Bhp9xbn4YAULRHu6"
   }
 }
